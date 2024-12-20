@@ -7,9 +7,9 @@ model = pyo.ConcreteModel()
 
 # Define model parameters
 model.H2inNH3 = pyo.Param(initialize=0.18)
+print("test")
 # Test_ici
 # Double test
-
 
 
 # Define model variables
